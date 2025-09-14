@@ -10,7 +10,6 @@ import {
   ArrowRight,
   Loader2,
   CheckCircle,
-  AlertCircle,
   Smartphone,
   Monitor,
   Globe
