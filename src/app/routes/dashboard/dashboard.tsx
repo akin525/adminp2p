@@ -2,13 +2,13 @@ import { JSX, useState } from "react";
 import Sidebar from "../../../components/Sidebar";
 import DashboardHeader from "../../../components/DashboardHeader";
 import {
-     HandCoins, HandHeart, Activity, TrendingUp,
+     HandCoins, HandHeart, Activity,
     Users, Target, DollarSign, Award, ArrowUpRight, ArrowDownRight
 } from "lucide-react";
 import { useUser } from "@/context/UserContext";
 import {
     BarChart as ReBarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer,
-    PieChart, Pie, Cell, Legend, LineChart, Line, AreaChart, Area
+    PieChart, Pie, Cell, Legend,
 } from "recharts";
 
 export default function AdminDashboard() {

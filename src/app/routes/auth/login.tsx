@@ -179,7 +179,7 @@ export default function LoginPage() {
                   <Zap className="w-7 h-7 text-white" />
                 </div>
                 <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-                  SaveBills
+                  SolanaP2PConnect
                 </h1>
               </div>
             </div>
@@ -333,7 +333,7 @@ export default function LoginPage() {
             {/* Footer */}
             <div className="text-center mt-8">
               <p className="text-gray-400 text-sm">
-                © 2024 SaveBills. All rights reserved.
+                © 2025 SolanaP2PConnect. All rights reserved.
               </p>
             </div>
           </div>
