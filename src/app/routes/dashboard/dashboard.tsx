@@ -43,7 +43,7 @@ export default function AdminDashboard() {
         },
     ];
 
-    const COLORS = ["#3B82F6", "#10B981", "#F59E0B", "#EF4444", "#8B5CF6", "#EC4899"];
+    // const COLORS = ["#3B82F6", "#10B981", "#F59E0B", "#EF4444", "#8B5CF6", "#EC4899"];
 
     return (
         <div className="min-h-screen text-white flex bg-gradient-to-br from-[#050B1E] via-[#0A1628] to-[#050B1E]">
